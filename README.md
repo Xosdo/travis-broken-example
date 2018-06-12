@@ -2,4 +2,4 @@
 
 An example that will cause a build failure
 
-HELLO WORLD!!
+HELLO WORLD!!!
